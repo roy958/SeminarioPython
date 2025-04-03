@@ -10,9 +10,3 @@ descriptions = [
 "Un espacio para charlar relajada sobre tecnología y cultura digital",
 "Exploramos el impacto de la música en los videojuegos clásicos"
 ]
-cont= 0
-for oracion in descriptions:
-     for word in oracion:
-         if word == 'música':
-             cont += 1
-print(cont)

@@ -10,4 +10,4 @@ def esvocal (frase):
 zenText = """Colocar aquí el Zen de Python"""
 for frase in zenText:
     if esvocal(frase) == True:
-        print(frase) # no se que esta mal
+        print(frase) 
