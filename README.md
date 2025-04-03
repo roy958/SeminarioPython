@@ -32,7 +32,7 @@
     - cuando se descargue, de click derecho sobre el archivo, aprete extraer aqui.
     - luego de esto, haz click en file.
      
-     ![alt text](image-4.png)
+     ![alt text](image-7.png)
       
      - haz click en open file, luego de esto busque la carpeta que extrajo del archivo.zip y haz doble click.
   5. crea un entorno virtual.
