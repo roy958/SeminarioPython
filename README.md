@@ -26,7 +26,6 @@
       
      - descargue esas extensiones.
   4. descargue el archivo . zip 
-    
      ![alt text](image-3.png) 
       
     -  aprete donde ve, luego descargue el archivo  en download ZIP.
